@@ -18,7 +18,14 @@ Welcome to SG2042 Technical Reference Manual's documentation!
    Power-domain.rst
    LP.rst
    PWM.rst
-   todo.rst
+   interrupt.rst
+   system-control.rst
+   I2C.rst  
+   SPI-flash.rst
+   GPIO.rst
+   uart.rst
+   SPI.rst
+   LPC.rst
 ..
      trm.rst
 
